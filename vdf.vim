@@ -41,4 +41,5 @@ syn keyword function        dfendheader dfwritepos dfheadermargin dfwriteline in
 syn keyword function        zerostring get_attribute get_field_value relate constrained_find vfind
 syn keyword function        dfwritelnpos dfheaderlinecheck dfheaderwrap report_breaks saverecord lock
 syn keyword function        unlock get_current_directory set_directory direct_input close_input read
-syn keyword function        readln get_fieldnumber
+syn keyword function        readln get_fieldnumber set_date_attribute writeln close_output append_output
+syn keyword function        direct_output set_attribute login
